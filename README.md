@@ -1,5 +1,5 @@
 # CSI 3450 (DB Design & Implementation) Bank
-We are the coolest group. Lets COOK!
+Welcome to BankSQL! This project involves the display of a database for a bank to view banks, people, accounts, loans, and transactions in the database. The project involves a frontend that displays all the information requested and allows the user to view their desired data based by filters, and a backend that controls all the requests from the bank database.
 
 ## Setup
 
